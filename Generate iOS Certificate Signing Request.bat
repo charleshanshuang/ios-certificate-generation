@@ -17,9 +17,9 @@ PAUSE
 openssl genrsa -passout pass:fd -out %KEY_NAME% 2048
 @ECHO OFF
 
-:: Edit your email, name, and Country here
+:: Edit your email, common name for your private key, and Country here
 set EMAIL=Your email
-set NAME=Your name
+set NAME=Your common name :: e.g. John Doe Dev Key
 set COUNTRY=Your country :: e.g. US
 :: Edit your Certificate Signing Request name here
 set CSR_NAME=CertificateSigningRequest.certSigningRequest
