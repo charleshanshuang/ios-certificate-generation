@@ -20,7 +20,7 @@ openssl genrsa -passout pass:fd -out %KEY_NAME% 2048
 :: Edit your email, name, and Country here
 set EMAIL=Your email
 set NAME=Your name
-set COUNTRY=Your country
+set COUNTRY=Your country :: E.g. US
 :: Edit your Certificate Signing Request name here
 set CSR_NAME=CertificateSigningRequest.certSigningRequest
 
