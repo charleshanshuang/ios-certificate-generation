@@ -33,5 +33,6 @@ Instructions for generating .p12
 -You may now use your .p12 file!
 
 Based off the guides from:
+http://help.adobe.com/en_US/as3/iphone/WS144092a96ffef7cc-371badff126abc17b1f-8000.html
 http://blog.nngafook.com/2012/06/ios-certificate-process/
 http://www.untoldentertainment.com/blog/2011/11/30/flash-to-ios-a-step-by-step-tutorial-part-2/
